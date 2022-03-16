@@ -4,6 +4,7 @@ Prerequisites
 	2. Create an EFS system
 	3. Create an s3 bucket named Webserver
 	4. Create two networks with proper routes. Both with internet access (us-east-1 and us-west-1) 
+	5. GIthub link: https://github.com/jameschidi/Webserver.git
 
 Deployment Steps
 	•  The static content of the webserver will be hosted on us-east-1.
